@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+
+/* https://colorscheme.ru/#2D11Tw0hCw0w0 */
+
+body {
+  // background-color: #e1e1e1;
+    
+}
+.footer{
+ 
+}
+.mainContainer{
+ 
+  background-color: #fff;
+}
+.menuElement{
+  max-width: 140px;
+}
+
+.middleLine {
+
+  background-image: linear-gradient(#205000, #2c6b01, #205000);
+  text-align: center;
+  vertical-align: middle; 
+ 
+
+}
+.bottomLine{
+  padding-top: 15px;
+  // background-color: #1a5116;
+  background-image: linear-gradient( #5e952d, #1a5116);
+}
+
+.logomaintext {
+  font-family: 'Noto Sans TC', sans-serif;
+  color: #fff;
+
+}
+.container{
+  max-width: 960px
+}
+
+.nav-tab{
+  span {
+    color: #3c4242;
+    
+  }
+  .is-active-tab{
+    background-color: #fff;
+    span {
+      color: #02907b;
+      
+    }
+   
+  }
+}
+
+
+
+.teamView{
+  span{
+    font-size: 17px;
+  }
+ 
+}
+
